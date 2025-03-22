@@ -178,17 +178,15 @@ http://130.0.24.6:2831/udp/239.101.101.37:2345
 http://130.0.24.6:2831/udp/239.101.101.16:2345
 
 #EXTINF:0 group-title="[🇦🇱👁️]REALITY SHOW" tvg-logo="https://i.imgur.com/sLt5m22.png",[$]BB VIP ALBANIA 1HD
-https://albtv.advanott.com/bbvalbania1/index.m3u8?token=test
+https://@alboliveiptv.xyz/ BB Vip Albania 1.m3u8
 #EXTINF:0 group-title="[🇦🇱👁️]REALITY SHOW" tvg-logo="https://i.imgur.com/R4ZNL5y.png",[$]BB VIP ALBANIA 2HD
-https://albtv.advanott.com/bbvalbania2/index.m3u8?token=test
+https://@alboliveiptv.xyz/ BB Vip Albania 2.m3u8
 #EXTINF:0 group-title="[🇦🇱👁️]REALITY SHOW" tvg-logo="https://i.imgur.com/CvOHVG1.png",[$]BB VIP AL 1HD
-http://premium-ks.net:2086/muminiptv/@bGwpR655DE5g@/86102
+https://dns4.bigushqip.xyz/hls/stream.m3u8
 #EXTINF:0 group-title="[🇦🇱👁️]REALITY SHOW" tvg-logo="https://i.imgur.com/PHwlPEc.png",[$]BB VIP AL 2HD
-http://premium-ks.net:2086/muminiptv/@bGwpR655DE5g@/86103
+https://dns1.bigushqip.xyz/hls/stream.m3u8
 #EXTINF:0 group-title="[🇦🇱👁️]REALITY SHOW" tvg-logo="https://i.imgur.com/EgmmRnO.png",[$]BB VIP AL 1HD (backup)
 http://185.222.138.163:9000/play/a0k3
-#EXTINF:0 group-title="[🇦🇱👁️]REALITY SHOW" tvg-logo="https://i.imgur.com/xQOycl9.png",[$]BB VIP AL 2HD (backup)
-https://dns1.bigushqip.xyz/hls/stream.m3u8
 
 #EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/vcyP2er.png",[$]CINEMA 1HD
 http://130.0.24.6:2831/udp/228.50.50.71:30000
